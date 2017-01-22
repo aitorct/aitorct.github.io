@@ -3077,11 +3077,11 @@
 /* Wrapper */
 
 	.wrapper {
-		padding: 6em 0 4em 0;
+		padding: 4em 0 4em 0;
 	}
 
 		.wrapper.style2 {
-			background: #e44c65;
+			background: #5480f1;
 		}
 
 			.wrapper.style2 input[type="text"]:focus,
@@ -3188,6 +3188,14 @@
 
 		.wrapper.fade.inactive > .container {
 			opacity: 0;
+		}
+
+	.wrapper2 {
+		padding: 4em 0 2em 0;
+	}
+
+		.wrapper2.style2 {
+			background: #5480f1;
 		}
 
 /* Dropotron */
