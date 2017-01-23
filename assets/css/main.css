@@ -1605,6 +1605,10 @@
 		margin: 0;
 	}
 
+	p.lts {
+		margin: -1em 0 0 0;
+	}
+
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
 		font-weight: 300;
@@ -3207,7 +3211,7 @@
 		}
 
 	.wrapper2 {
-		padding: 4em 0 2em 0;
+		padding: 3em 0 1.5em 0;
 	}
 
 		.wrapper2.style2 {
