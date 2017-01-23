@@ -3541,12 +3541,6 @@
 				padding: 4.5em;
 			}
 
-		/* Footer */
-
-			#footer {
-				padding: 4.5em 0;
-			}
-
 	}
 
 /* Medium */
@@ -3621,12 +3615,6 @@
 					#banner .content .image {
 						margin: 0;
 					}
-
-		/* Footer */
-
-			#footer {
-				padding: 4.5em 0;
-			}
 
 	}
 
@@ -3752,13 +3740,6 @@
 				-ms-transition: -ms-transform 0.5s ease;
 				transition: transform 0.5s ease;
 				padding-bottom: 1px;
-			}
-
-
-		/* Footer */
-
-			#footer {
-				padding: 3.25em 1.5em;
 			}
 
 	}
