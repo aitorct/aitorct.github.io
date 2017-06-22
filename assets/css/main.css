@@ -1598,7 +1598,7 @@
 	}
 
 	p {
-		margin: 0 0 2em 0;
+		margin: 0 0 1em 0;
 	}
 
 	p.list {
@@ -2119,7 +2119,6 @@
 	}
 
 	header h2 + p {
-		font-size: 1.25em;
 		margin-top: -1em;
 		line-height: 1.75em;
 	}
@@ -2529,7 +2528,7 @@
 		padding-left: 2em;
 	}
 
-	@media screen and (max-width: 980px) {
+	@media screen and (max-width: 980px), screen and (max-height: 715px) {
 		ul {
 			padding-left: 0;
 			display: inline-block;
@@ -3023,7 +3022,7 @@
 
 		.spotlight.left .content, .spotlight.right .content {
 			height: 101%;
-			padding: 6em 3em;
+			padding: 3em 3em;
 			top: 0;
 			width: 28em;
 		}
@@ -3549,7 +3548,7 @@
 
 /* Medium */
 
-	@media screen and (max-width: 980px) {
+	@media screen and (max-width: 980px), screen and (max-height: 715px) {
 
 		/* Basic */
 
