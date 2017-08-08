@@ -1116,6 +1116,14 @@
 			margin-left: 8.33333%;
 		}
 
+		.lf {
+			clear:	left;
+		}
+
+		.rg{
+			clear: right;
+		}
+
 	}
 
 	@media screen and (max-width: 736px) {
@@ -3469,6 +3477,7 @@
 			margin: 2em 0 0 0;
 			padding: 0;
 			text-align: center;
+			display: block;
 		}
 
 			#footer .copyright li {
