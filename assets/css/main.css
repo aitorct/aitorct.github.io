@@ -3632,7 +3632,7 @@
 
 /* Small */
 
-	@media screen and (max-width: 736px) {
+	@media screen and (max-width: 420px) {
 
 		/* Basic */
 
@@ -3663,7 +3663,7 @@
 			}
 
 			header h2 + p {
-				font-size: 1em;
+				font-size: 0.9em;
 			}
 
 			header h3 + p {
@@ -3732,12 +3732,12 @@
 				}
 
 					#banner .content header h2 {
-						font-size: 1.5em;
+						font-size: 2em;
 					}
 
 					#banner .content .image {
-						height: 9em;
-						width: 9em;
+						height: 15em;
+						width: 15em;
 					}
 
 		/* Off-Canvas Navigation */
