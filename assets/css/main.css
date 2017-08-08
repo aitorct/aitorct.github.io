@@ -3756,6 +3756,13 @@
 
 	}
 
+	@media screen and (max-width: 1280px) and (min-width: 480px){
+		img.switchImg {
+			content:url("../../images/bcn2.jpg");
+		}
+
+	}
+
 /* XSmall */
 
 	@media screen and (max-width: 480px) {
